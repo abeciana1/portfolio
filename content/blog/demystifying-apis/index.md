@@ -2,7 +2,7 @@
 title: Demystifying APIs for Beginners
 date: "2020-07-24"
 tags: [Ruby, API]
-thumbnail: ./ezgif.com-video-to-gif-unparsed-json.gif
+thumbnail: ./Screen_Shot_2020-07-21_at_8.31.50_PM.png
 description: APIs can be intimidating, but they shouldn't be feared! They can really help your app come to life.
 ---
 
