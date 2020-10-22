@@ -2,6 +2,7 @@
 title: Demystifying APIs for Beginners
 date: "2020-07-24"
 tags: [Ruby, API]
+thumbnail: ./Screen_Shot_2020-07-23_at_11.08.10_PM.png
 description: APIs can be intimidating, but they shouldn't be feared! They can really help your app come to life.
 ---
 
