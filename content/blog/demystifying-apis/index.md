@@ -2,7 +2,7 @@
 title: Demystifying APIs for Beginners
 date: "2020-07-24"
 tags: [Ruby, API]
-thumbnail: ./Screen_Shot_2020-07-23_at_11.08.10_PM.png
+thumbnail: ./ezgif.com-video-to-gif-unparsed-json.gif
 description: APIs can be intimidating, but they shouldn't be feared! They can really help your app come to life.
 ---
 
@@ -204,7 +204,7 @@ Production:
 Link to IMDB: https://www.imdb.com/title/tt0107290/
 ```
 
-<script src="https://gist.github.com/abeciana1/e3d13b442946ade14f9718446b3c1582.js"></script>
+[Feel free to check out the GitHub Gist](https://gist.github.com/abeciana1/e3d13b442946ade14f9718446b3c1582.js)
 
 <h2>Want to try this out?</h2>
 If you really want to try this out quickly by creating your own CLI app and access API data, you can install my Ruby gem that sets up a skeleton for CLI apps. You can install it <a href="https://rubygems.org/gems/rcli_app" alt="rcli_app ruby gem">here</a>
