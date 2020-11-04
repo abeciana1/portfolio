@@ -6,6 +6,8 @@ thumbnail: ./Screen_Shot_2020-07-21_at_8.31.50_PM.png
 description: APIs can be intimidating, but they shouldn't be feared! They can really help your app come to life.
 ---
 
+<h1>Demystifying APIs for Beginners</h1>
+
 When you start learning to code via a coding bootcamp, like Flatiron School, you find yourself thrust into a chaotic environment. There’s a lot of collaboration and making new friends, self-learning, and self-discovery, and there is some panicking.
 
 The worst thing you can do is psych yourself out and allow that to deter your motivation. More often than not, I’ve seen fellow classmates become bewildered by the amount of material thrown at us in such a small amount of time and then soar through the concept of “learning by doing.”
