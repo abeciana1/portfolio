@@ -2,7 +2,7 @@
 title: Creating a Portfolio Blog Site using Gatsby and NetlifyCMS
 date: "2020-09-26"
 tags: [Job Hunting, Portfolio, Professional, Gatsby, Netlify]
-thumbnail: ./ezgif.com-video-to-gif.gif
+thumbnail: ./images.jpeg
 description: Creating a portfolio and blogging site using NetlifyCMS and Gatsby in about 15 minutes.
 ---
 
