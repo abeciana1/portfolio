@@ -40,7 +40,7 @@ const AboutPage = ({ data }, location) => {
             organized and communicative, especially working under pressure and
             across multiple teams. Agile, flexible, and accustomed to frequent
             changes of pace having previously worked in event production and
-            time-sensitive community-driven initiatives.
+            time-sensitive community-driven marketing initiatives.
           </p>
           <br />
           <h3>
