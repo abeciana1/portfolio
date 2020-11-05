@@ -30,9 +30,9 @@ const Layout = props => {
               {/* <li className="nav-home nav-current" role="menuitem">
                 <Link to={`/`}>Home</Link>
               </li> */}
-              {/* <li className="nav-about" role="menuitem">
+              <li className="nav-about" role="menuitem">
                 <Link to={`/about`}>About</Link>
-              </li> */}
+              </li>
               {/* <li className="nav-elements" role="menuitem">
                 <Link to={`/elements`}>Elements</Link>
               </li> */}
@@ -79,6 +79,14 @@ const Layout = props => {
                 rel="noopener noreferrer"
               >
                 GitHub
+              </a>
+              <a
+                href="https://www.behance.net/alexbeciana"
+                title="Behance"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Behance
               </a>
             </div>
           </div>
