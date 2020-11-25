@@ -55,23 +55,15 @@ const Layout = props => {
                 rel="noopener noreferrer"
               >
                 Facebook
-              </a>
+              </a>*/}
               <a
-                href="https://twitter.com"
-                title="Twitter"
+                href="https://www.linkedin.com/in/alexbeciana1/"
+                title="LinkedIn"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Twitter
-              </a> */}
-              <Link
-                to={`/rss.xml`}
-                title="RSS"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                RSS
-              </Link>
+                LinkedIn
+              </a>
               <a
                 href="https://github.com/abeciana1/"
                 title="GitHub"
@@ -88,6 +80,14 @@ const Layout = props => {
               >
                 Behance
               </a>
+              <Link
+                to={`/rss.xml`}
+                title="RSS"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                RSS
+              </Link>
             </div>
           </div>
         </div>
