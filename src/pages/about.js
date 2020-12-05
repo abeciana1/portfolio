@@ -20,6 +20,8 @@ import "../style/all.scss";
 const AboutPage = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title;
 
+  console.log(siteTitle);
+  debugger;
   return (
     <Layout title={siteTitle}>
       <SEO
