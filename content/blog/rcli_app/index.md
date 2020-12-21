@@ -21,7 +21,7 @@ Enter **rcli_app**
 As this article has been leading up to it, my gem focuses on helping beginner Rubyists get started with creating their own command-line applications. You can check out additional documentation [here](https://github.com/abeciana1/rcli_app) and the official RubyGem page is [here](https://rubygems.org/gems/rcli_app).
 
 <video width="250px">
-    <source src="https://www.notion.so/sweetstatic/rcli_app-A-Ruby-Gem-for-Beginners-6ac239aa1ae84685a3aba106820b27b5#52e42b276b0d4ed9803621c94a87fdfa" type="video/mp4">
+    <source src="https://www.notion.so/sweetstatic/rcli_app-A-Ruby-Gem-for-Beginners-6ac239aa1ae84685a3aba106820b27b5#52e42b276b0d4ed9803621c94a87fdfa">
 </video>
 
 There are only three steps that you need to follow (also shown in the video above):
