@@ -21,7 +21,7 @@ Enter **rcli_app**
 As this article has been leading up to it, my gem focuses on helping beginner Rubyists get started with creating their own command-line applications. You can check out additional documentation [here](https://github.com/abeciana1/rcli_app) and the official RubyGem page is [here](https://rubygems.org/gems/rcli_app).
 
 <video>
-    <source src="./Screen_Recording_2020-07-25_at_1.33.33_PM.mov" type="video/mp4" >
+    <source src="./Screen_Recording_2020-07-25_at_1.33.33_PM.mov" type="video/mp4" width="250px">
 </video>
 
 There are only three steps that you need to follow (also shown in the video above):
