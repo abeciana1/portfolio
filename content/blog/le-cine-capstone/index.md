@@ -2,7 +2,7 @@
 title: Le Cine, a Virtual Film Club Management App
 date: "2020-12-31"
 tags: [Rails, ReactJS, Flatiron School, Full Stack]
-thumbnail: ./le-cine-capstone/old-projector.jpg
+thumbnail: ./old-projector.jpg
 description: A film club management app to bring meaningful conversation and film lovers together under one roof.
 ---
 
