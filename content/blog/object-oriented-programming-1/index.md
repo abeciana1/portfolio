@@ -38,7 +38,7 @@ In Ruby, creating a new instance (or object) of the `Person` class would look li
 alex = Person.new("alex", 26, 68)
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f01c5e9-3f40-4693-b06a-3a42be533597/Screen_Shot_2021-01-10_at_4.21.22_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f01c5e9-3f40-4693-b06a-3a42be533597/Screen_Shot_2021-01-10_at_4.21.22_PM.png)
+<img src="./Screen_Shot_2021-01-10_at_4.21.22_PM.png" alt="Person class - screenshot">
 
 # Instances of a Class
 
@@ -46,13 +46,13 @@ As mentioned above, we created an instance of the `Person` class and set the var
 
 In my console, `alex` evaluated to this:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5d81bb4e-97b1-4daf-a240-5e959f10e807/Screen_Shot_2021-01-10_at_4.15.00_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5d81bb4e-97b1-4daf-a240-5e959f10e807/Screen_Shot_2021-01-10_at_4.15.00_PM.png)
+<img src="./Screen_Shot_2021-01-10_at_4.15.00_PM.png" alt="Alex instance of Person class">
 
 Here, we have the instance (or object) that we created. We can see the obvious parts of the data, like the age, height, and name attributes. But the discussion point here is `#<Person:0x00007f9ca6381d10`. This indicates that this object is an instance of the `Person` class and it can be found here: `0x00007f9ca6381d10`. This is a memory reference to the unique storage location in memory of this object.
 
 What do you think would happen if we created another instance and set another variable equal to it. Let's see:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d2c577e0-4b03-48e3-8fcd-191e7f68a282/Screen_Shot_2021-01-10_at_4.21.52_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d2c577e0-4b03-48e3-8fcd-191e7f68a282/Screen_Shot_2021-01-10_at_4.21.52_PM.png)
+<img src="./Screen_Shot_2021-01-10_at_4.21.52_PM.png" alt="Alex and Russell instance of Person class">
 
 \*\*You might notice that the `alex` instance has a new a difference memory reference. This is because we're not hooked up to a database. Nothing is really being saved here. But we'll get to that later in this series.
 
