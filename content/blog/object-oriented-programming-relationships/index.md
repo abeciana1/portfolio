@@ -1,6 +1,6 @@
 ---
 title: "#3 OOP Series: Relationships and Associations, Part 1"
-date: "2021-01-31"
+date: "2021-02-07"
 tags: [Ruby, Programming Languages, Object-Oriented Programming]
 thumbnail: ./Object oriented programming.jpg
 description: In this series, I will go over the principles and foundations of object-oriented programming and some principles on databases.
