@@ -1,5 +1,5 @@
 ---
-title: "#4 OOP Series: Relationships and Associations, Part 3"
+title: "#5 OOP Series: Relationships and Associations, Part 3"
 date: "2021-02-21"
 tags: [Ruby, Programming Languages, Object-Oriented Programming]
 thumbnail: ./Object oriented programming.jpg
