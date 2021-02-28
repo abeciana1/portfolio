@@ -1,6 +1,6 @@
 ---
 title: "#6 OOP Series: An Intro to ORMs and ActiveRecord"
-date: "2021-02-14"
+date: "2021-02-28"
 tags: [Ruby, Programming Languages, Object-Oriented Programming]
 thumbnail: ./Object oriented programming.jpg
 description: In this series, I will go over the principles and foundations of object-oriented programming and some principles on databases.
