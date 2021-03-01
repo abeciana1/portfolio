@@ -67,13 +67,12 @@ const AboutPage = ({ data }, location) => {
           />{" "}
           Ruby
           <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg"
+            src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor"
             alt="Rails"
-            alt="rails"
             width="40"
             height="40"
           />{" "}
-          Rails
+          Rails{" "}
           <img
             src="https://img.icons8.com/color/48/000000/ruby-gem.png"
             alt="RubyGems"
@@ -95,48 +94,68 @@ const AboutPage = ({ data }, location) => {
           />{" "}
           JavaScript
           <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+            src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor"
             alt="React"
             width="40"
             height="40"
           />{" "}
-          React
+          React{" "}
           <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
+            src="https://img.icons8.com/color/48/000000/redux.png"
+            alt="Redux"
+            width="40"
+            height="40"
+          />{" "}
+          Redux{" "}
+          <img
+            src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor"
             alt="PostgreSQL"
             width="40"
             height="40"
           />{" "}
-          PostgreSQL
+          PostgreSQL{" "}
           <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"
+            src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor"
             alt="Bootstrap"
             width="40"
             height="40"
           />{" "}
-          Bootstrap
+          Bootstrap{" "}
           <img
             src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"
             alt="Gatsby"
             width="40"
             height="40"
           />{" "}
-          Gatsby
+          Gatsby{" "}
           <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
             alt="Git"
             width="40"
             height="40"
           />{" "}
-          Git
+          Git <br />
           <img
             src="https://cdn.iconscout.com/icon/free/png-512/twilio-282195.png"
             alt="Twilio"
             width="40"
             height="40"
           />{" "}
-          Twilio
-          <h4>Graphic Design</h4>
+          Twilio{" "}
+          <img
+            src="https://img.icons8.com/color/48/000000/jira.png"
+            alt="Jira"
+            width="40"
+            height="40"
+          />{" "}
+          Jira{" "}
+          <img
+            src="https://img.icons8.com/fluent/48/000000/sprint-iteration.png"
+            alt="Agile"
+            height="40"
+            width="40"
+          />{" "}
+          Agile <h4>Graphic Design</h4>
           <img
             src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"
             alt="Adobe Photoshop"
@@ -163,17 +182,17 @@ const AboutPage = ({ data }, location) => {
             src="https://img.icons8.com/windows/32/000000/buffer.png"
             alt="Buffer"
           />{" "}
-          Buffer
+          Buffer{" "}
           <img
             src="https://img.icons8.com/windows/32/000000/mailchimp.png"
             alt="Mailchimp"
           />{" "}
-          Mailchimp
+          Mailchimp{" "}
           <img
             src="https://img.icons8.com/wired/64/000000/salesforce.png"
             alt="Salesforce"
           />{" "}
-          Salesforce
+          Salesforce{" "}
           <img
             src="https://theme.zdassets.com/theme_assets/18251/e951ad889f2b1f3a993a2f4ad73bb84f4aa34953.png"
             alt="Hootsuite"
@@ -206,6 +225,7 @@ const AboutPage = ({ data }, location) => {
                   href="https://sweetstatic.com/"
                   al="Sweet Static"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   Website
                 </a>
@@ -244,6 +264,7 @@ const AboutPage = ({ data }, location) => {
                   href="https://mlh.io/"
                   alt="Major League Hacking"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   Website
                 </a>
@@ -287,6 +308,7 @@ const AboutPage = ({ data }, location) => {
                   href="https://kingpizzarecords.bandcamp.com/"
                   alt="King Pizza Records"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   Website
                 </a>
@@ -324,6 +346,7 @@ const AboutPage = ({ data }, location) => {
                   href="https://www.nyu.edu/life/campus-resources/kimmel-center.html"
                   alt="NYU Kimmel Center"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   Website
                 </a>
@@ -384,6 +407,7 @@ const AboutPage = ({ data }, location) => {
                   href="https://wagner.nyu.edu/"
                   alt="NYU - Robert F. Wagner Graduate School of Public Service"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   Website
                 </a>
@@ -414,6 +438,7 @@ const AboutPage = ({ data }, location) => {
                   href="https://flatironschool.com/"
                   alt="Flatiron School"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   Website
                 </a>
@@ -435,6 +460,7 @@ const AboutPage = ({ data }, location) => {
                   href="https://zicklin.baruch.cuny.edu/"
                   alt="Baruch College - Zicklin School of Business"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   Website
                 </a>
@@ -457,6 +483,7 @@ const AboutPage = ({ data }, location) => {
                   href="https://www.suny.edu/campuses/suffolk/"
                   alt="Suffolk County Community College"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   Website
                 </a>

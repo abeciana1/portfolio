@@ -25,7 +25,7 @@ const BlogIndex = ({ data }, location) => {
         <header style={{ textAlign: "center", paddingBottom: "50px" }}>
           <h3 className="page-head-title">
             <div style={{ textAlign: "center" }}>
-              <img src={ProfilePic} style={{ height: "200px" }} />
+              <img src={ProfilePic} style={{ height: "200px" }} alt="Profile" />
             </div>
             {data.site.siteMetadata.description}
           </h3>
