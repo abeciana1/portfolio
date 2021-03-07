@@ -11,7 +11,7 @@ tags:
     Education,
     Learning,
   ]
-thumbnail: ./QYFCEODYCNMXJOUPB2M4PUDWTU.jpg
+thumbnail: ./1_hCYovji_u-UpsDzsk5j1VQ@2x.jpeg
 description: A slight departure from the usual programming but necessary.
 ---
 
