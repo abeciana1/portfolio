@@ -1,5 +1,5 @@
 ---
-title: "What I've learned since graduating a coding bootcamp, Part 1"
+title: "What I've learned since graduating from a coding bootcamp, Part 1"
 date: "2021-03-07"
 tags:
   [
