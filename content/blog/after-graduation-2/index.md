@@ -1,6 +1,6 @@
 ---
 title: "What I've learned since graduating from a coding bootcamp, Part 2"
-date: "2021-03-07"
+date: "2021-03-14"
 tags:
   [
     Flatiron School,
